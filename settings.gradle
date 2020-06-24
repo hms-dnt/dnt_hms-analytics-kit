@@ -1,0 +1,2 @@
+rootProject.name='Huawei-Analytics-Example'
+include ':app'
